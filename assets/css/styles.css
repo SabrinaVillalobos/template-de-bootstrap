@@ -2,3 +2,12 @@ body {
   min-height: 2000px;
   padding-top: 70px;
 }
+
+.img-thumbnail {
+  width: 200px;
+  height: 200px;
+}
+
+.bs-example{
+  padding-bottom:155px;
+}
