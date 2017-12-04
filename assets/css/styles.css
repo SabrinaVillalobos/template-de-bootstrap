@@ -11,3 +11,8 @@ body {
 .bs-example{
   padding-bottom:155px;
 }
+
+.slide{
+  width: 1140px;
+  height: 500px;
+}
